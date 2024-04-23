@@ -1,1 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeeeredith)](https://github.com/anuraghazra/github-readme-stats)
+### hi, i'm daniel.
+
+I'm interested in:
+- langchain
+- generative agents & llms
+- artificial intelligence in healthcare
