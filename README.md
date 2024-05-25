@@ -1,3 +1,4 @@
-### hi, i'm daniel.
+### hi there, i'm daniel 🪐
 
-Interested in: **Langchain, Langraph, Training Models, and anything ML.** 
+Research Assistant @ the <ins>University of Chicago.</ins> <br>
+Weekly Projects @ this [Link.](https://meriedith.com)
