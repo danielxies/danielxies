@@ -1,5 +1,5 @@
 ### hi there, i'm daniel 🦹‍♂️
 
 RA @ `Purdue`<br/>
-Monthly Projects `@` this <a href="https://meriedith.com" target="_blank">`Link.`</a>
+Working on <a href="https://explore.meriedith.com" target="_blank">`Apollo.`</a>
 
